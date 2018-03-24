@@ -1,2 +1,0 @@
-# tryRenderProps
-Created with CodeSandbox
